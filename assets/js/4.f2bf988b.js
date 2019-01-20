@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{170:function(t,s,n){"use strict";n.r(s);var e=n(0),o=Object(e.a)({},function(){var t=this.$createElement,s=this._self._c||t;return s("div",{staticClass:"content"},[s("Posts",{attrs:{page:"posts"}})],1)},[],!1,null,null,null);o.options.__file="README.md";s.default=o.exports}}]);
